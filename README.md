@@ -104,3 +104,16 @@ Gracias por considerar mi candidatura. Quedo a su disposición para cualquier co
 
 **Atentamente,**      
 Desireé Y. Salazar M.  
+
+
+## 3. Preparación para la entrevista y prueba tecnica.  
+**Cuestionario Técnico para Desarrolladora de Front-end Junior**  
+
+| **Pregunta** | **Respuesta** |
+|--------------|---------------|
+| **¿Cómo describes tu experiencia en el desarrollo web, especialmente en PHP y WordPress?** | Mi experiencia en desarrollo web se centra en PHP y WordPress. En mis trabajos anteriores, he diseñado y mantenido sitios web, optimizando el rendimiento y asegurando una estructura de código limpio y escalable. Además, en Ironchip y como freelancer, me especialicé en personalización avanzada de WordPress, creando soluciones adaptadas a cada cliente. |
+| **¿Cómo manejas la optimización de un sitio para SEO y la mejora de su rendimiento?** | Al optimizar un sitio para SEO, me enfoco en mejorar la estructura del contenido, el uso de etiquetas adecuadas y la velocidad de carga. Utilizo herramientas como Google PageSpeed Insights para identificar áreas de mejora, y aplico técnicas de minificación de archivos, compresión de imágenes y optimización de consultas en la base de datos para mejorar el rendimiento general. |
+| **Cuéntanos sobre un desafío técnico que hayas enfrentado en un proyecto y cómo lo resolviste.** | En un proyecto reciente, me encontré con problemas de integración entre una web y un sistema externo debido a incompatibilidades en APIs. Abordé el problema investigando documentación adicional y probando soluciones alternativas. Logré resolver la incompatibilidad adaptando las llamadas API y mejorando la funcionalidad del sitio sin afectar el rendimiento. |
+| **¿Qué metodología utilizas para trabajar de forma autónoma y mantener una comunicación efectiva con el equipo?** | Prefiero establecer metas claras y dividir tareas en subtareas manejables. Suelo utilizar herramientas como Trello o Asana para seguir el progreso y comparto reportes semanales con el equipo para asegurar que todos estén al tanto. Esto me permite trabajar de forma independiente, pero siempre manteniendo la comunicación abierta para resolver dudas o problemas rápidamente. |
+| **¿Cómo abordas la resolución de problemas técnicos en un sitio web y la identificación de errores?** | Utilizo herramientas como el inspector de código en el navegador y logs de errores para identificar problemas técnicos. Prefiero analizar y entender el error antes de intentar resolverlo, y suelo hacer pruebas en un entorno de desarrollo antes de aplicar la solución en producción para evitar interrupciones en el servicio. |
+

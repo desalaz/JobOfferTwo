@@ -106,7 +106,7 @@ Gracias por considerar mi candidatura. Quedo a su disposición para cualquier co
 Desireé Y. Salazar M.  
 
 
-## 3. Preparación para la entrevista y prueba tecnica.  
+## 4. Preparación para la entrevista y prueba tecnica.   
 **Cuestionario Técnico para Desarrolladora de Front-end Junior**  
 
 | **Pregunta** | **Respuesta** |

@@ -6,7 +6,7 @@ Esta seria la segunda Oferta de empleo a la que me gustaria aplicar, y la prepar
 
 ## 2. Oferta Laboral   
 
-[Oferta 2](https://www.linkedin.com/jobs/view/4063480775/?alternateChannel=search&refId=SM8fJVhVUoDFqDEKzO%2FXhQ%3D%3D&trackingId=jCWllI2eC9XqeFmiA7Te7w%3D%3D)
+[Oferta 2](https://www.linkedin.com/jobs/view/4063480775/?alternateChannel=search&refId=SM8fJVhVUoDFqDEKzO%2FXhQ%3D%3D&trackingId=jCWllI2eC9XqeFmiA7Te7w%3D%3D)  
 **Título**: Desarrollador/a web.      
 **Empresa**: RDT ingenieros.     
 **tipo**: Presencial.  
@@ -16,7 +16,7 @@ Esta seria la segunda Oferta de empleo a la que me gustaria aplicar, y la prepar
 - Experiencia mínima: Sin Experiencia.  
 - Imprescindible residente en Provincia Puesto Vacante.    
 _Conocimientos necesarios_:  
-**Desarrollo Web**    **Front-end**    **HTML**    **JavaScript**    **MySQL**    **PHP**    
+**Desarrollo Web,**    **Front-end,**    **HTML,**    **JavaScript,**    **MySQL,**    **PHP.**    
 
 **Requisitos Técnicos mínimos:**    
 - Desarrollo Windows.  

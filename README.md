@@ -78,4 +78,29 @@ _GitHub_: https://github.com/desalaz<br>
 - Familiaridad con el uso de Docker para el desarrollo y despliegue de aplicaciones.
 - Habilidades de trabajo en equipo, resolución de problemas y orientación al logro.
 
-## 3. Carta Presentación
+## 3. Carta Presentación   
+
+**Desireé Y. Salazar M.**    
+_611 448 740_      
+_desi.salazarm@gmail.com_      
+**Muskiz, España**      
+
+[13-11-2024]  
+
+**RDT Ingenieros**    
+Muskiz, País Vasco, España   
+
+Estimado equipo de selección,  
+
+Me dirijo a ustedes para expresar mi interés en el puesto de **Analista Programador PHP/WordPress** en RDT Ingenieros. Con experiencia en desarrollo web y un fuerte enfoque en PHP, WordPress y optimización de código, considero que tengo la preparación y el entusiasmo necesarios para contribuir de manera efectiva a su equipo de desarrollo digital.    
+
+En mi rol previo en Ironchip, perfeccioné mis habilidades en desarrollo web y QA Testing, realizando tareas de limpieza y optimización de código e integraciones, así como pruebas de caja blanca y negra. Esto, junto con mi experiencia en Upwork y Freelancer, donde desarrollé sitios personalizados para clientes y e-commerce en WordPress, me ha brindado una sólida base en programación y atención al detalle, ambas cualidades que valoro profundamente.    
+
+Además de mis habilidades técnicas en **PHP**, **HTML**, **CSS**, **JavaScript** y **MySQL**, me siento muy cómoda colaborando tanto de manera autónoma como en equipo, buscando siempre soluciones creativas y adaptadas a las necesidades de cada proyecto.    
+
+Me motiva la oportunidad de unirme a una empresa innovadora y colaborar en proyectos desafiantes que buscan transformar ideas en realidades digitales. Confío en que mi perfil y mis ganas de aprender contribuirán al éxito de los proyectos de RDT Ingenieros.    
+
+Gracias por considerar mi candidatura. Quedo a su disposición para cualquier consulta adicional y espero con interés la posibilidad de conversar sobre cómo puedo contribuir al éxito de su equipo.    
+
+**Atentamente,**      
+Desireé Y. Salazar M.  
